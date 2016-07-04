@@ -6,6 +6,7 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
+	cout << "1st change in moshe branch";
 	return 0;
 }
 
